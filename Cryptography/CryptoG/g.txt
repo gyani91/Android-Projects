@@ -1,0 +1,12 @@
+REcording Device Name g, ,Plain Data - 4840, Encrypted Data -1ce7033e057b5a10d52ef018f589c883, Decrypted Data - 4840
+REcording Device Name g, ,Plain Data - 119, Encrypted Data -4f1c8b143fc6ba5415d9bec4a4ec5bb0, Decrypted Data - 119
+REcording Device Name g, ,Plain Data - 3180, Encrypted Data -e9cbde5bcfab1fbf3bda1894d57b2488, Decrypted Data - 3180
+REcording Device Name g, ,Plain Data - 4290, Encrypted Data -45afaeecc3840899f5f3fb9ccad01499, Decrypted Data - 4290
+REcording Device Name g, ,Plain Data - 9801, Encrypted Data -d606c51e33a36bc17f2455e03157210e, Decrypted Data - 9801
+REcording Device Name g, ,Plain Data - 7083, Encrypted Data -f6fdd348a0bafe8293c28297b4abc16c, Decrypted Data - 7083
+REcording Device Name g, ,Plain Data - 5166, Encrypted Data -6b6ffc9f5da07c8b2a03645c78acd41d, Decrypted Data - 5166
+REcording Device Name g, ,Plain Data - 5551, Encrypted Data -61b66914f3221d8dc8243ef2ea43fc9b, Decrypted Data - 5551
+REcording Device Name g, ,Plain Data - 5321, Encrypted Data -58eb3bc84a7ae6a9d8dc17150c8af8a3, Decrypted Data - 5321
+REcording Device Name g, ,Plain Data - 5042, Encrypted Data -da8ce5cf37fafafbea31ecc6dcba1bab, Decrypted Data - 5042
+REcording Device Name g, ,Plain Data - 5183, Encrypted Data -8a5eede72f98cf2c8d80e667f02887d6, Decrypted Data - 5183
+REcording Device Name g, ,Plain Data - 6374, Encrypted Data -8b6b16cb22022d7464fb85963bb9a403, Decrypted Data - 6374

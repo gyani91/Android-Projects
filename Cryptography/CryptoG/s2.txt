@@ -1,0 +1,5 @@
+REcording Device Name s2, ,Plain Data - 8055, Encrypted Data -b84c26d2b873f37bd23e5e76973ee42a, Decrypted Data - 8055
+REcording Device Name s2, ,Plain Data - 5990, Encrypted Data -f509b987db2556aa622cf12bb53d9059, Decrypted Data - 5990
+REcording Device Name s2, ,Plain Data - 1391, Encrypted Data -af8b17f58dcb932b97ecd7c667fcaf83, Decrypted Data - 1391
+REcording Device Name s2, ,Plain Data - 5001, Encrypted Data -0f9ac1648d4460878c1ea3e3d7e3affa, Decrypted Data - 5001
+REcording Device Name s2, ,Plain Data - 9745, Encrypted Data -5bc28a014a54ed04a28203e6bcfcf94e, Decrypted Data - 9745
