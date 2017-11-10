@@ -1,0 +1,97 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/alertOneBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With One Button" />
+
+        <Button
+            android:id="@+id/alertTwoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Two Buttons" />
+
+        <Button
+            android:id="@+id/alertThreeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Three Buttons" />
+
+        <Button
+            android:id="@+id/alertTimePickerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Time Picker" />
+
+        <Button
+            android:id="@+id/alertDatePickerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Date Picker" />
+
+        <Button
+            android:id="@+id/alertSimpleListViewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Simple List View" />
+
+        <Button
+            android:id="@+id/alertScrollViewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Scroll View" />
+
+        <Button
+            android:id="@+id/alertFormElementsBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Form Elements" />
+
+        <Button
+            android:id="@+id/alertWebViewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog With Web View" />
+
+        <Button
+            android:id="@+id/alertCustomizedLayoutBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Customized Layout" />
+
+        <Button
+            android:id="@+id/alertMultiChoiceBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Multiple Choice Items" />
+
+        <Button
+            android:id="@+id/alertSingleChoiceBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Single Choice Items" />
+        
+        <Button
+            android:id="@+id/alertEditTextKeyboardShownBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Dialog with EditText and Keyboard Shown" />
+        
+        <Button
+            android:id="@+id/alertPersistentDialogBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alert Persistent Dialog" />
+        
+    </LinearLayout>
+
+</ScrollView>

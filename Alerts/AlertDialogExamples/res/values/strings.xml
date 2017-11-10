@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">TestApp</string>
+    <string name="showTimeDialogFrom">showTimeDialogFrom</string>
+
+    <string-array name="choices">
+        <item>Coke</item>
+        <item>Pepsi</item>
+        <item>Sprite</item>
+        <item>Seven Up</item>
+    </string-array>
+
+</resources>
